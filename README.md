@@ -1,10 +1,4 @@
-Git Commands
-============
-
-## Translated Versions
-- [Versão em português](READMEpt.md)
-
-___
+# Git Commands 
 
 _A list of my commonly used Git commands_
 
